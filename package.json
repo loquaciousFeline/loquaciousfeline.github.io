@@ -1,0 +1,23 @@
+{
+  "name": "web-1-course-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CU-IXD/cuixd-web1-course-project.git"
+  },
+  "author": "Phil Schanely <philschanely@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CU-IXD/cuixd-web1-course-project/issues"
+  },
+  "homepage": "https://github.com/CU-IXD/cuixd-web1-course-project#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  },
+  "keywords": []
+}
